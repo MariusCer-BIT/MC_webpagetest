@@ -1,0 +1,88 @@
+
+
+.header-container {
+  width: 1260px;
+  margin: auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+
+.logo {
+  max-width: 50px;
+}
+  
+
+.menu-list ul {
+  display: flex;
+}
+
+.menu-list ul li {
+  list-style: none;
+  padding-right: 30px;
+}
+
+/* GRIDAS
+.first-page {
+  background-color: rgb(32, 108, 109);
+}
+ 
+.container-page {
+ 
+  width: 1280px;
+  max-width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  height: 90vh;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  grid-template-areas:
+    "content1 content3"
+    "content2 content3";
+  grid-gap: 0.4rem;
+  font-family: "Inter", sans-serif;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-size: 12px;
+  text-align: center;
+}
+
+nav {
+  width: 1280px;
+  text-align: center;
+  background-color: rgb(114, 225, 240);
+  grid-area: nav;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+
+#content1 {
+  background-color: rgb(109, 194, 120);
+  grid-area: content1;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+#content2 {
+  background-color: rgb(61, 185, 179);
+  grid-area: content2;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+
+#content3 {
+  background-color: rgb(61, 100, 185);
+  grid-area: content3;
+  border-radius: var(--main-radius);
+  padding-top: var(--main-padding);
+}
+*/
